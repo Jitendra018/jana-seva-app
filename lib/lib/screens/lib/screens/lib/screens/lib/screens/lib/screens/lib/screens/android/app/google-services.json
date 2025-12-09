@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844907434688",
+    "project_id": "jana-seva-app",
+    "storage_bucket": "jana-seva-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844907434688:android:2af56bb179d746fe9f5325",
+        "android_client_info": {
+          "package_name": "com.janaseva.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCA3d5L6bckq-pUwAgsaFfS5ouJPW_h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
